@@ -1,0 +1,3 @@
+-- KEY AUTH --
+Your key is:
+7za192M0x99
